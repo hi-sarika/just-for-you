@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Will You Be My Valentine?</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+        }
+
+        h1 {
+            color: #ff3366;
+        }
+
+        img {
+            max-width: 100%;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+
+        blockquote {
+            color: #333;
+            font-style: italic;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Will You Be My Valentine?</h1>
+
+    <img src="URL_TO_YOUR_IMAGE" alt="Your Image 1">
+    <img src="URL_TO_YOUR_IMAGE" alt="Your Image 2">
+
+    <blockquote>"Love is not just looking at each other, it's looking in the same direction."<br>- Antoine de Saint-Exupéry</blockquote>
+    <blockquote>"You are the peanut butter to my jelly."<br>- Unknown</blockquote>
+    <blockquote>"In all the world, there is no heart for me like yours. In all the world, there is no love for you like mine."<br>- Maya Angelou</blockquote>
+
+    <p>Would you be my Valentine?</p>
+
+    <!-- Replace the following link with your actual messaging link -->
+    <a href="LINK_TO_YOUR_MESSAGING_APP" target="_blank">
+        <button style="background-color: #ff3366; color: #fff; padding: 10px 20px; font-size: 16px; border: none; cursor: pointer; border-radius: 5px;">Yes, I'd love to!</button>
+    </a>
+</body>
+</html>
